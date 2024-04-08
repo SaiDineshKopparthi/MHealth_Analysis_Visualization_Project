@@ -1,1 +1,1 @@
-# MHealth_Analysis_Visulaization_Project
+# MHealth_Analysis_Visualization_Project
